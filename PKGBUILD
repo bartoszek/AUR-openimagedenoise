@@ -1,5 +1,5 @@
 # Maintainer : bartus <arch-user-repoᘓbartus.33mail.com>
-pkgname=oidn
+pkgname=openimagedenoise
 pkgver=1.2.3
 _fragment="#tag=v${pkgver}"
 pkgrel=1
